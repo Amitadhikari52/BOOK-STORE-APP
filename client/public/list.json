@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "The Adventures of a Lifetime",
+    "price": 0,
+    "category": "Free",
+    "image": "./book.avif"
+  },
+  {
+    "id": 2,
+    "name": "Forgetten",
+    "title": "Journey to the Unknown",
+    "price": 9.99,
+    "category": "Adventure",
+    "image": "./book.avif"
+  },
+  {
+    "id": 3,
+    "name": "Fables",
+    "title": "Magic in Every Page",
+    "price": 14.99,
+    "category": "Free",
+    "image": "./book.avif"
+  },
+  {
+    "id": 4,
+    "name": "Echo",
+    "title": "Unravel the Enigma",
+    "price": 12.99,
+    "category": "Mystery",
+    "image": "./book.avif"
+  },
+  {
+    "id": 5,
+    "name": "Escapes",
+    "title": "Love Beyond Measure",
+    "price": 11.99,
+    "category": "Free",
+    "image": "./book.avif"
+  },
+  {
+    "id": 6,
+    "name": "Chronicles",
+    "title": "Explore the Cosmos",
+    "price": 15.99,
+    "category": "Fiction",
+    "image": "./book.avif"
+  },
+  {
+    "id": 7,
+    "name": "Odyssey",
+    "title": "Journey Through Time",
+    "price": 13.99,
+    "category": "Free",
+    "image": "./book.avif"
+  },
+  {
+    "id": 8,
+    "name": "Sanctuary",
+    "title": "Empower Your Mind",
+    "price": 10.99,
+    "category": "Free",
+    "image": "./book.avif"
+  },
+  {
+    "id": 9,
+    "name": "Compendium",
+    "title": "Culinary Delights",
+    "price": 17.99,
+    "category": "Free",
+    "image": "./book.avif"
+  },
+  {
+    "id": 10,
+    "name": "Artistic",
+    "title": "Unleash Your Creativity",
+    "price": 16.99,
+    "category": "Art",
+    "image": "./book.avif"
+  },
+  {
+    "id": 11,
+    "name": "Shine",
+    "title": "Fresh Content for You",
+    "price": 0,
+    "category": "Free",
+    "image": "./book.avif"
+  }
+]
